@@ -1,0 +1,47 @@
+body{
+    font-family: "Monaco", "Courier New", monospace;
+    font-style: unset;
+    font:bolder;
+    background-image: url(https://ssgnet.com/wp-content/uploads/2015/09/blue-red-background.jpg);
+    background-size:auto;
+}
+
+.worldDomination{
+    background-color: aqua;
+}
+
+.komisan{
+    background-color: blueviolet;
+}
+
+.aharensan{
+    background-color: cadetblue;
+}
+
+.dressupdarling{
+    background-color: wheat;
+}
+
+.kaguyasama {
+    background-color: tomato;
+}
+
+dd{
+    
+    color: black;
+    background-color: azure;
+    border-radius: 1%;
+    height: 90%;
+    width:90%;
+    text-justify: auto;
+    text-rendering: optimizeLegibility;
+}
+
+p {
+    background-color: azure;
+    border-radius: 1%;
+    height: 90%;
+    width:90%;
+    text-justify: auto;
+    text-rendering: optimizeLegibility;
+}
