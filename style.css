@@ -45,3 +45,11 @@ p {
     text-justify: auto;
     text-rendering: optimizeLegibility;
 }
+
+.ishigami {
+    display: inline;
+}
+
+.chika{
+    display: inline;
+}
